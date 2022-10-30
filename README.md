@@ -12,7 +12,7 @@ Hi there, I'm <a href="https://michelfcm.github.io/" target="_blank" rel="norefe
 
 🚀 I’m currently studying <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer" target="_blank">"Meta Front-End Developer Professional Certificate"</a>.
 
-### Language and Tools
+### Languages and Tools
 
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react">
