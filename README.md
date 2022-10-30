@@ -10,7 +10,7 @@ Hi there, I'm <a href="https://michelfcm.github.io/" target="_blank" rel="norefe
 
 ### About Me
 
-🚀 I’m currently studying <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer">"Meta Front-End Developer Professional Certificate"</a>.
+🚀 I’m currently studying <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer" target="_blank">"Meta Front-End Developer Professional Certificate"</a>.
 
 ### Language and Tools
 
