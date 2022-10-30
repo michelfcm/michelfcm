@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Michel 👋
+
+[![Michel Mingroni's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelfcm&count_private=true&show_icons=true&title_color=39d353&text_color=c9d1d9&icon_color=58a6ff&bg_color=11151c)](https://github.com/michelfcm/github-readme-stats)
 
 <!--
 **michelfcm/michelfcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
