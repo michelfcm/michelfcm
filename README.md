@@ -6,7 +6,7 @@ Hi there, I'm <a href="https://michelfcm.github.io/" target="_blank" rel="norefe
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/michel-mingroni)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://michelfcm.github.io/)
 
-🔥 I'm a self-taught passionate FrontEnd Developer 🔥
+🔥 I'm a self-taught passionate Front-End Developer 🔥
 
 ### About Me
 
