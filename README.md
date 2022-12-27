@@ -6,13 +6,9 @@ Hi there, I'm <a href="https://michelfcm.github.io/" target="_blank" rel="norefe
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/michel-mingroni)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://michelfcm.github.io/)
 
-🔥 I'm a self-taught passionate Data Analyst 🔥
+🔥 I'm a Software Engineer 🔥
 
 ### Languages and Tools
-
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices">
 
 &nbsp;
 
